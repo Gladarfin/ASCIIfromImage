@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+87l7oUNw2fIsbRCBnxHLDerGH2SKb02OmnLvUoO08fIM/YMf++8FOGc4erdMkxImqATPdMrlqxKXl45833Tg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Practice_Fun\\ASCIIfromImageFSharp\\ASCIIfromImageFSharpProject\\ASCIIfromImageFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bartimaeus\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512",
+    "C:\\Users\\Bartimaeus\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bartimaeus\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
