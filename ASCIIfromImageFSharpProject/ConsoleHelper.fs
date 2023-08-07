@@ -44,6 +44,7 @@ let setCurrentFont fontSize =
 
 let printImageIntoConsole (outputImage: char[][]) =
     outputImage |> Array.iter Console.WriteLine
-    Console.SetCursorPosition(0, 0)
+    //If we set the cursor after the image output, console doesn't show the full image
+    //Console.SetCursorPosition(0, 0)
     Console.ReadKey() 
     
